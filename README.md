@@ -11,7 +11,7 @@ https://github.com/jyotishp/pegasos-svm/tree/master.
 cd .\orignal_code\ 
 python svm.py --dataset_dir ../data/mnist  --iterations 2000 --kernel
 ```
-### After arrangement(src)
+### After Clean up(src)
 ```
 cd .\src\ 
 python finalSVM.py --dataset_dir ../data/mnist  --iterations 2000 --kernel
